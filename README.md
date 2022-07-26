@@ -1,5 +1,7 @@
 # Mushroom-Classification---Poisonous-or-Edibl
 Creating Machine Learning Model that predicts whether the Mushroom is Safe to eat or not based on the features of Mushroom!!
+
+
 This data set includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family (pp. 500-525). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one.
 There are 22 attributes in the data set i.e., odor of mushrooms, veil types, color, cap shape, gill size, ... etc
 
