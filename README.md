@@ -1,4 +1,4 @@
-# Mushroom-Classification---Poisonous-or-Edibl
+# Mushroom-Classification---Poisonous-or-Edible
 Creating Machine Learning Model that predicts whether the Mushroom is Safe to eat or not based on the features of Mushroom!!
 
 
